@@ -1,0 +1,13 @@
+body {
+    background-color: #f0f0f0; /* Och kulrang fon */
+    color: #333; /* Matn rangi qorong'i */
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #2c3e50; /* H1 sarlavhasi rangi */
+}
+
+p {
+    font-size: 16px; /* Paragraflar o'lchami */
+}
